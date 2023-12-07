@@ -1,7 +1,9 @@
 # Process name here
 
 ## Governance
+
 *Capture latest approval information below*
+
 | Date Updated   | Approved By   | Changes Made   |
 | -------------- | ------------- | -------------- |
 | Date 1         | John Doe      | Initial Draft  |
